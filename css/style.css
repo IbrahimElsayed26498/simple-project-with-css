@@ -78,3 +78,9 @@ ol li
     display: inline-block;
     color: blue;
 }
+
+tr td span
+{
+    color: red;
+    text-decoration:line-through;
+}
